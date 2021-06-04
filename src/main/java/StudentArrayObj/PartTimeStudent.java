@@ -11,6 +11,7 @@ package StudentArrayObj;
  */
 public class PartTimeStudent extends Student {
     private int numOfCourses;
+    private int numOfHours;
     
     
 }
